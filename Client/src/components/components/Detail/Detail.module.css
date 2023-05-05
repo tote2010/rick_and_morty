@@ -1,0 +1,23 @@
+.container{
+    display:inline-block;
+    justify-content:space-around;
+    /* border: solid; */
+    color: azure;
+    border-radius: 20px;
+    /* background-color: rgba(169, 219, 226, 0.8) */
+}
+.boton{
+    padding: 5px;
+    border-radius: 8px;
+    background-color: #d7ee82;
+    color: green;
+}
+.img{
+    border-radius: 200px;
+}
+
+.font{
+    background-color: rgba(169, 219, 226, 0.8);
+    border-radius: 300px 300px;
+    margin: 50px;
+}

@@ -1,0 +1,13 @@
+.App {
+   text-align: center;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+:root{
+   background-image: url('../public/img/HD-wallpaper-spectre-rick-morty-rick-and-morty-thumbnail.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
