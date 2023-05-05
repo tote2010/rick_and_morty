@@ -2,16 +2,16 @@ import React, { useState } from "react";
 import styled from "styled-components";
 
 const StyleInput = styled.input`
-   margin-right: 1px;
+   margin-right: 5px;
    border-radius: 5px;
 `
 const Boton = styled.button`
-   background-color: #d7ee82;
-   color: green;
+   background-color: red;
+   color: black;
    border-radius: 5px;
    font-weight: bold;
    font-size: 13px;
-   padding: 1px;
+   padding: 5px;
    margin: 2px;
 `
 

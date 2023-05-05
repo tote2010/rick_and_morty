@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const StyleCards = styled.div`
 display: 'flex'; 
 justify-content: 'space-around';
-border-radius:'20px';
+border-radius:'10px';
 `
 
 export default function Cards(props) {
