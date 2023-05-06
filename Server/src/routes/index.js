@@ -14,7 +14,6 @@ router.post("/fav", postFav);
 router.delete("/fav/:id", deleteFav);
 router.post("/login", postUser );
 
-module.exports = router;
 
 
 // const express = require("express");
